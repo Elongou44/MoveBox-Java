@@ -8,3 +8,19 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+# IDEA 项目配置文件
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+build/
+
+# 编译产物
+*.class
+*.jar
+
+# 系统文件
+.DS_Store
+Thumbs.db
