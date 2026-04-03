@@ -1,10 +1,12 @@
-# MoveBox 推箱子游戏
+<img width="692" height="696" alt="image" src="https://github.com/user-attachments/assets/85d207fe-0794-4a33-900d-6d6165afd88b" /># MoveBox 推箱子游戏
 
 这是一个使用Java Swing开发的推箱子游戏项目，包含登录注册系统和多关卡设计。
+<img width="692" height="503" alt="image" src="https://github.com/user-attachments/assets/506fee44-7890-4cb8-8c9d-561157e174f2" />
+
 
 ## 项目简介
 
-MoveBox是一个经典的推箱子游戏，玩家需要通过方向键控制人物移动，将箱子推到指定的目标位置。此外，项目还实现了用户登录和注册功能，使用MySQL数据库存储用户信息。第一次做的一个项目，没有添加登录验证，可以直接启动za1.java启动
+MoveBox是一个经典的推箱子游戏，玩家需要通过方向键控制人物移动，将箱子推到指定的目标位置。此外，项目还实现了用户登录和注册功能，使用MySQL数据库存储用户信息。第一次做的一个项目，没有添加登录验证，可以直接启动
 
 ## 技术栈
 
@@ -101,37 +103,20 @@ MoveBox/
    - 确保用户名和密码正确
 4. **导入项目**：在IDE中导入项目
 5. **添加依赖**：添加`mysql-connector-java-8.0.18_.jar`到项目依赖
-6. **运行游戏**：运行`Test1.java`的main方法启动游戏
 
 ## 游戏截图
 
 
 ### 登录界面
-![登录界面](Image/login.png)
-
-### 注册界面
-![注册界面](Image/register.png)
-
-### 游戏启动界面
-![启动界面](Image/launcher.png)
+<img width="442" height="294" alt="image" src="https://github.com/user-attachments/assets/4b8a001e-39d0-4176-9596-f4be0f16e1f2" />
 
 ### 关卡选择界面
-![关卡选择](Image/level-select.png)
+<img width="692" height="463" alt="image" src="https://github.com/user-attachments/assets/ba0e8ce5-0a29-484b-a73c-f42a6bb85bb2" />
+
 
 ### 游戏界面
-![游戏界面](Image/game.png)
+<img width="692" height="696" alt="image" src="https://github.com/user-attachments/assets/501fb1f0-2612-43c7-9b01-2845b7266281" />
 
-## 学习收获
-
-通过开发这个项目，我掌握了以下技能：
-
-- Java Swing图形界面开发
-- 事件处理和用户输入响应
-- 二维数组的使用和游戏地图设计
-- MySQL数据库连接和操作
-- JDBC API的使用
-- 异常处理和错误调试
-- 项目结构设计和代码组织
 
 ## 未来
 
