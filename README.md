@@ -103,24 +103,8 @@ MoveBox/
 5. **添加依赖**：添加`mysql-connector-java-8.0.18_.jar`到项目依赖
 6. **运行游戏**：运行`Test1.java`的main方法启动游戏
 
-### 数据库配置
-
-```sql
--- 创建数据库
-CREATE DATABASE youxi;
-
--- 使用数据库
-USE youxi;
-
--- 创建用户表
-CREATE TABLE pushbox (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    username VARCHAR(50) NOT NULL,
-    usernumber VARCHAR(50) NOT NULL
-);
-```
-
 ## 游戏截图
+
 
 ### 登录界面
 ![登录界面](Image/login.png)
