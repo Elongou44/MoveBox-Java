@@ -1,4 +1,4 @@
-<img width="692" height="696" alt="image" src="https://github.com/user-attachments/assets/85d207fe-0794-4a33-900d-6d6165afd88b" /># MoveBox 推箱子游戏
+# MoveBox 推箱子游戏
 
 这是一个使用Java Swing开发的推箱子游戏项目，包含登录注册系统和多关卡设计。
 <img width="692" height="503" alt="image" src="https://github.com/user-attachments/assets/506fee44-7890-4cb8-8c9d-561157e174f2" />
