@@ -1,4 +1,4 @@
-# MoveBox 推箱子游戏
+基于Java+Swing+Mysql+JDBC开发的一个推箱子小游戏|推箱子
 
 这是一个使用Java Swing开发的推箱子游戏项目，包含登录注册系统和多关卡设计。
 <img width="692" height="503" alt="image" src="https://github.com/user-attachments/assets/506fee44-7890-4cb8-8c9d-561157e174f2" />
